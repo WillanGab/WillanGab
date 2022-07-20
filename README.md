@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on nada
-- 🌱 I’m currently learning informatica
-- 👯 I’m looking to collaborate on casa
-- 🤔 I’m looking for help with a escola
-- 💬 Ask me about futebol
+- 🔭 I'm currently working on nothing
+- 🌱 I’m currently learning computer
+- 👯 I try to collaborate at home
+- 🤔 I look for help at school
+- 💬 Ask me about football
 - 📫 How to reach me: willian.lima@al.estudante.senai.br
-- 😄 Pronouns: ele
-- ⚡ Fun fact: amigos
+- 😄 Pronouns: he
+- ⚡ Fun fact: friends
 
